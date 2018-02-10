@@ -1,3 +1,4 @@
+# Scraping like it's your job
 + From Anaconda install the environment.yml file
 + Install node
 + `npm install -g phantomjs-prebuilt`
