@@ -1,6 +1,6 @@
 + From Anaconda install the environment.yml file
-+ brew install node
-+ npm install -g phantomjs-prebuilt
++ Install node
++ `npm install -g phantomjs-prebuilt`
 + install mongodb however you like
 
 ### Running Scrapy
